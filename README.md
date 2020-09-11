@@ -42,6 +42,7 @@ My main motivations for analyzing the AirBnb dataset are
 ## Acknowlegments
 
 Kaggle for the dataset https://www.kaggle.com/airbnb/seattle/data
+
 Python developers 
 
 Pandas developers
